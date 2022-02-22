@@ -27,6 +27,7 @@ const Detail = () => {
     return (
         <div>
             <h1>{movie.title}</h1>
+            <h1>하이하이</h1>
         </div>
     );
 };
